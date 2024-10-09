@@ -1,0 +1,14 @@
+name: COMP3104_Group74_Assignment Repository CI
+
+run-name: ${{ github.actor }} is currently utilizing GitHub Actions
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - run: echo Success
