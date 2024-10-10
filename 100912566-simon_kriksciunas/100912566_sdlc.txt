@@ -1,0 +1,15 @@
+Using DevOps practices effectively will allow for a process predicated on ease to
+ship code to Production servers, apply hot-fixes, catch errors before they 
+produce some sort of unintended behavior and keep transparency & 
+communication heightened across all teams. 
+Looking at the software development lifecycle through the lens of 
+a DevOps Engineer will produce a more informed and qualified developer.
+
+DevOps fosters a culture of collaboration between development, operations, and 
+other stakeholders, reducing friction and misunderstandings.
+Teams share responsibility for the entire lifecycle of an application, 
+promoting a sense of ownership.
+CI/CD pipelines automate the integration and testing processes, 
+allowing for frequent code changes without compromising quality.
+DevOps aligns well with Agile practices, 
+enabling teams to respond quickly to changes in requirements and market demands.
