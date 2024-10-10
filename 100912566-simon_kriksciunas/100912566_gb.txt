@@ -1,4 +1,8 @@
-George Brown College (GBC) is a public college located in Toronto, Ontario, Canada and was established in 1967. 
-It offers a wide range of programs across various fields, including health sciences, business, arts and design, community services, and technology.
-The college has three main campuses: St. James (downtown Toronto), Casa Loma, and Waterfront and it serves over 30,000 full-time students and 30,000 part-time students.
-GBC is known for its hands-on learning approach, preparing students for the workforce with practical skills and industry connections.
+George Brown College (GBC) is a public college located in Toronto, Ontario, Canada 
+and was established in 1967. 
+It offers a wide range of programs across various fields, 
+including health sciences, business, arts and design, community services, and technology.
+The college has three main campuses: St. James (downtown Toronto), Casa Loma, and Waterfront 
+and it serves over 30,000 full-time students and 30,000 part-time students.
+GBC is known for its hands-on learning approach, 
+preparing students for the workforce with practical skills and industry connections.
