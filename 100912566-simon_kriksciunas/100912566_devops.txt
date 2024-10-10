@@ -5,6 +5,6 @@ implementation of tried, tested and true DevOps technologies.
 
 It will also examine ways in which companies have either lost or saved fortunes
 with DevOps strategies. Learning about Amazon Web Services, Ansible, Docker and
-Travis CI, students will become familiar with end-to-end deployment processes. They will
-also have their very own build pipeline which will allow them to push changes to a
-web app in the wild at the stroke of a key.
+Travis CI, students will become familiar with end-to-end deployment processes. 
+They will also have their very own build pipeline which will allow them to 
+push changes to a web app in the wild at the stroke of a key.
