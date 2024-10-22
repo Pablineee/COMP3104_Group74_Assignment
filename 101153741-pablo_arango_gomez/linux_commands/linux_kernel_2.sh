@@ -1,1 +1,0 @@
-echo 'Popcorn is ready.'
