@@ -7,3 +7,8 @@ The course emphasizes practical skills to boost productivity and collaboration i
 The course focuses on the principles and practices of DevOps to enhance productivity 
 in the software development lifecycle. Students learn how DevOps integrates development 
 and operations to streamline processes and improve software delivery.
+
+George Brown College's COMP3104 DevOps course also equips students with the knowledge 
+and skills to implement DevOps practices in real-world environments.
+The course emphasizes productivity improvements, collaboration between teams, 
+and the use of modern tools to streamline the software development cycle.
