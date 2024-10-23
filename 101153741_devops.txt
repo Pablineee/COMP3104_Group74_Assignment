@@ -1,0 +1,5 @@
+COMP3104 - DevOps at George Brown College teaches students key DevOps 
+practices like continuous integration, containerization, and cloud computing. 
+Through hands-on labs, students learn to deploy applications, manage version control, 
+and make architectural decisions (monolith vs. microservices). 
+The course emphasizes practical skills to boost productivity and collaboration in IT environments.
